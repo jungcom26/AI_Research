@@ -10,7 +10,7 @@
 
 ## Version Control Guidelines
 - All updates should be done via pull requests or committed with clear messages.
-- For development work, use branches (e.g., 'Analysis_development') and merge back into 'main' once reviewed.
+- For development work, use branches (e.g. 'Analysis_development') and merge back into 'main' once reviewed.
 - Use GitHub Issues for tracking tasks or bugs.
 
 ## Collaboration
